@@ -1,8 +1,8 @@
 {
   "name": "betamindy",
-  "displayName": "BetaMindyTranslated",
+  "displayName": "BetaMindy-Translated",
   "author": "[royal]sk7725[]",
-  "description": "Мой первый [accent]Java[] мод, обладает таким же количеством хаотической энергии, как [cyan]sk7725/Commandblocks[].",
+  "description": "BetaMindy на русском",
   "subtitle": "Демонстрация самого хаоса",
   "version": "1.1",
   "main": "betamindy.BetaMindy",
