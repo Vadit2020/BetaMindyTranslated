@@ -1,0 +1,2 @@
+# BetaMindyTranslated
+ BetaMindy на русском
